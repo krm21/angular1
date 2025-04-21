@@ -11,4 +11,4 @@ ng serve
 
 ## Details
 
-There is only one extra component created - [FirstComponent](src/app/first). It is used the [main component](src/app).
+There is only one extra component created - [FirstComponent](src/app/first). It is used in the [main component](src/app).
